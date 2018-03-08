@@ -1,0 +1,24 @@
+{
+  "name": "ms-bootstrap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Judzhin Miles <info@msbios.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Judzhin/ms-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+  }
+}
